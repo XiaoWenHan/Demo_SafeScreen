@@ -3,4 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="show_unlock_toast">Do some safety things now</string>
+    <string name="hide_unlock_toast">Quit safety things now</string>
 </resources>
