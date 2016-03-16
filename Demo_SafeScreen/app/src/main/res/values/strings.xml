@@ -4,6 +4,14 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
-    <string name="show_unlock_toast">Do some safety things now</string>
-    <string name="hide_unlock_toast">Quit safety things now</string>
+
+    <string name="mode.background">Lock When Background Running</string>
+    <string name="mode.screen.off">Lock When The Screen Is Off</string>
+
+    <string name="tip.background.mode.enabled">Background Lock Enabled</string>
+    <string name="tip.background.mode.disabled">Background Lock Disabled</string>
+    <string name="tip.screen.off.mode.enabled">Screen Off Lock Enabled</string>
+    <string name="tip.screen.off.mode.disabled">Screen Off Lock Disabled</string>
+
+    <string name="tip.check.show">Let\'s Check</string>
 </resources>
